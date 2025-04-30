@@ -3,7 +3,7 @@
     {
       "tensorName": "Word Embeddings",
       "tensorShape": [
-        36,
+        35,
         50
       ],
       "tensorPath": "corrected_word_embeddings.tsv",
