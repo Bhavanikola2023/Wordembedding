@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Word Embeddings",
+      "tensorShape": [
+        36,
+        50
+      ],
+      "tensorPath": "tight_word_embeddings.tsv",
+      "metadataPath": "tight_metadata.tsv"
+    }
+  ]
+}
