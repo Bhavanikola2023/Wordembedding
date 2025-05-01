@@ -1,37 +1,91 @@
 word	cluster
-location	Geographic Concepts
-city	Geographic Concepts
-region	Geographic Concepts
-country	Geographic Concepts
-continent	Geographic Concepts
-province	Geographic Concepts
-coordinates	Geographic Concepts
-geography	Geographic Concepts
-timezone	Geographic Concepts
-state	Geographic Concepts
-landmark	Geographic Concepts
-territory	Geographic Concepts
-address	Private/Personal Information
-street_number	Private/Personal Information
-home_address	Private/Personal Information
-zip_code	Private/Personal Information
-phone_number	Private/Personal Information
-email	Private/Personal Information
-SSN	Private/Personal Information
-passport	Private/Personal Information
-IP_address	Private/Personal Information
-user_id	Private/Personal Information
-social_handle	Private/Personal Information
-place	Bridge Words
-map	Bridge Words
-postal_code	Bridge Words
-directions	Bridge Words
-residence	Bridge Words
-destination	Bridge Words
-location_data	Bridge Words
-geotag	Bridge Words
-route	Bridge Words
-vicinity	Bridge Words
-neighborhood	Bridge Words
-area	Bridge Words
-
+location	Geographic_Concepts
+city	Geographic_Concepts
+region	Geographic_Concepts
+country	Geographic_Concepts
+continent	Geographic_Concepts
+province	Geographic_Concepts
+coordinates	Geographic_Concepts
+geography	Geographic_Concepts
+timezone	Geographic_Concepts
+territory	Geographic_Concepts
+latitude	Geographic_Concepts
+longitude	Geographic_Concepts
+district	Geographic_Concepts
+capital	Geographic_Concepts
+hemisphere	Geographic_Concepts
+landscape	Geographic_Concepts
+border	Geographic_Concepts
+area	Geographic_Concepts
+nation	Geographic_Concepts
+terrain	Geographic_Concepts
+physical features	Geographic_Concepts
+environment	Geographic_Concepts
+climate	Geographic_Concepts
+municipality	Geographic_Concepts
+rural	Geographic_Concepts
+urban	Geographic_Concepts
+elevation	Geographic_Concepts
+landform	Geographic_Concepts
+topography	Geographic_Concepts
+geopolitical	Geographic_Concepts
+address	Personal_Private_Info
+street number	Personal_Private_Info
+home address	Personal_Private_Info
+zip code	Personal_Private_Info
+phone number	Personal_Private_Info
+email	Personal_Private_Info
+SSN	Personal_Private_Info
+passport	Personal_Private_Info
+IP address	Personal_Private_Info
+driver’s license	Personal_Private_Info
+credit card	Personal_Private_Info
+bank account	Personal_Private_Info
+username	Personal_Private_Info
+password	Personal_Private_Info
+biometric data	Personal_Private_Info
+health record	Personal_Private_Info
+login credentials	Personal_Private_Info
+user ID	Personal_Private_Info
+security questions	Personal_Private_Info
+fingerprint	Personal_Private_Info
+facial recognition	Personal_Private_Info
+tax ID	Personal_Private_Info
+insurance number	Personal_Private_Info
+emergency contact	Personal_Private_Info
+private key	Personal_Private_Info
+birthdate	Personal_Private_Info
+medical ID	Personal_Private_Info
+residential status	Personal_Private_Info
+next of kin	Personal_Private_Info
+national ID	Personal_Private_Info
+place	Bridge_Words
+map	Bridge_Words
+postal code	Bridge_Words
+directions	Bridge_Words
+residence	Bridge_Words
+destination	Bridge_Words
+location data	Bridge_Words
+geotag	Bridge_Words
+navigation	Bridge_Words
+route	Bridge_Words
+neighborhood	Bridge_Words
+geo-coordinates	Bridge_Words
+locator	Bridge_Words
+tracking	Bridge_Words
+site	Bridge_Words
+proximity	Bridge_Words
+point of interest	Bridge_Words
+address lookup	Bridge_Words
+commute	Bridge_Words
+GPS	Bridge_Words
+live location	Bridge_Words
+trip history	Bridge_Words
+virtual address	Bridge_Words
+current location	Bridge_Words
+travel log	Bridge_Words
+local info	Bridge_Words
+satellite view	Bridge_Words
+service area	Bridge_Words
+geo-fence	Bridge_Words
+check-in	Bridge_Words
