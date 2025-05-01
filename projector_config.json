@@ -6,7 +6,7 @@
         36,
         50
       ],
-      "tensorPath": "tight_word_embeddings.tsv",
+      "tensorPath": "corrected_word_embeddings.tsv",
       "metadataPath": "tight_metadata.tsv"
     }
   ]
