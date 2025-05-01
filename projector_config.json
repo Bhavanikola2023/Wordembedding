@@ -4,7 +4,7 @@
       "tensorName": "Word Embeddings",
       "tensorShape": [ 90, 50 ],
       "tensorPath": "https://raw.githubusercontent.com/Bhavanikola2023/Wordembedding/refs/heads/main/corrected_word_embeddings.tsv",
-      "metadataPath": "tight_metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/Bhavanikola2023/Wordembedding/refs/heads/main/tight_metadata.tsv"
     }
   ]
 }
