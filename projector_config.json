@@ -2,7 +2,7 @@
   "embeddings": [
     {
       "tensorName": "Word Embeddings",
-      "tensorShape": [ 35, 50 ],
+      "tensorShape": [ 90, 50 ],
       "tensorPath": "corrected_word_embeddings.tsv",
       "metadataPath": "tight_metadata.tsv"
     }
